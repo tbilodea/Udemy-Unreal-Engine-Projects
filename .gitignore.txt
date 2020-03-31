@@ -1,2 +1,0 @@
-BullCowGame/Release Build/**
-BuildingEscape/Release Build/*
